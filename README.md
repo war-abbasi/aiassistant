@@ -24,8 +24,8 @@ Follow these simple steps to get your assistant running:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/war-abbasi/API_KEY_CHATBOT.git
-cd API_KEY_CHATBOT
+git clone https://github.com/war-abbasiaiassistant.git
+cd aiassistant
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
