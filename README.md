@@ -1,9 +1,5 @@
 # 🧠 AI Chat Assistant with LangChain & OpenAI
 
-<p align="center">
-  <img src="banner.png" alt="AI Chat Assistant Banner" width="100%" />
-</p>
-
 A command-line AI assistant built using **LangChain**, **LangGraph**, and **OpenAI’s GPT-3.5-Turbo**. This assistant supports natural language interaction and can evaluate complex mathematical expressions through a seamless chat interface.
 
 ---
